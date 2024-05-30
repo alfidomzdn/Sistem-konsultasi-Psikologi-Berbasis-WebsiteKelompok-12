@@ -2,7 +2,6 @@
 
 int main()
 {
-    printf("Mencoba");
-
+    printf("Mencoba nya");
     return 0;
 }
