@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main()
+{
+    printf("Mencoba nya");
+    return 0;
+}
